@@ -7,11 +7,11 @@ Senior Software Engineer
 Senior Backend Engineer at Allot with 7+ years of experience in secure distributed systems. Backend architecture, DevOps automation, and AI integration
 
 *   🌍  I'm based in Albacete, Spain
-*   🖥️  [Visit my portfolio!](http:///joaquin-hernandez.netlify.app/)
+*   🖥️  [Visit my portfolio!](https://joaquin-hm.com/)
 *   ✉️  You can contact me at [proyecto\_noether@outlook.com](mailto:proyecto_noether@outlook.com)
 *   🛡️  Currently working in [Allot](https://www.allot.com/) as Engineer and [Tajamar](https://www.tajamar.es/) as Teacher
 *   🚀  Working on [AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system) in my free time
-*   🧠  I'm currently learning AI development and integration
+*   🧠  I'm currently learning AI development and integration in distributed backends
 *   👥  I'm looking to collaborate in Go projects
 *   💬  Amateur astronomer, semi-decent barista and a terrible dancer
 <p align="left">
