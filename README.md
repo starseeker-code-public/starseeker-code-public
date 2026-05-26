@@ -19,7 +19,7 @@
   <a href="https://joaquin-hm.com/"><img src="https://img.shields.io/badge/Portfolio-joaquin--hm.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="mailto:proyecto_noether@outlook.com"><img src="https://img.shields.io/badge/Email-proyecto__noether-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://aholddelhaize.com/"><img src="https://img.shields.io/badge/%40-Ahold%20Delhaize-00A65C?style=for-the-badge" /></a>
-  <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/Teaching-Tajamar-5C2D91?style=for-the-badge" /></a>
+  <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/and-Tajamar-5C2D91?style=for-the-badge" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=starseeker-code-public&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
