@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------------
 
-Senior Backend Engineer at Allot with 7+ years of experience in secure distributed systems. Backend architecture, DevOps automation, and AI integration
+Senior Backend Engineer at Ahold Delhaize with 7+ years of experience in secure distributed systems. Backend architecture, DevOps automation, and AI integration
 
 *   🌍  I'm based in Albacete, Spain
 *   🖥️  [Visit my portfolio!](https://joaquin-hm.com/)
 *   ✉️  You can contact me at [proyecto\_noether@outlook.com](mailto:proyecto_noether@outlook.com)
-*   🛡️  Currently working in [Allot](https://www.allot.com/) as Engineer and [Tajamar](https://www.tajamar.es/) as Teacher
+*   🛡️  Currently working in [Ahold Delhaize](https://aholddelhaize.com/) as Engineer and [Tajamar](https://www.tajamar.es/) as Teacher
 *   🚀  Working on [AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system) in my free time
 *   🧠  I'm currently learning AI development and integration in distributed backends
 *   👥  I'm looking to collaborate in Go projects
