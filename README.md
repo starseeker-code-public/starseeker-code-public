@@ -22,8 +22,6 @@
   <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/and-Tajamar-5C2D91?style=for-the-badge" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=starseeker-code-public&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
 
 ---
