@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://joaquin-hm.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Joaquin+Hernandez+Martinez+%F0%9F%91%8B;Senior+Backend+Engineer+%E2%80%A2+Distributed+Systems+%E2%80%A2+AI;Go+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+C%23;Building+secure%2C+observable%2C+production-grade+systems" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Joaquin+Hernandez+Martinez+%F0%9F%91%8B;Backend+Engineer+%E2%80%A2+Distributed+Systems+%E2%80%A2+AI;Go+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+C%23;Building+secure+and+production-grade+systems" alt="Typing header" />
 </a>
 
 <br/>
