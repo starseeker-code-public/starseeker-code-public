@@ -32,7 +32,7 @@
 
 - 🌍 &nbsp;Based in **Albacete, Spain**
 - 🖥️ &nbsp;Portfolio → **[joaquin-hm.com](https://joaquin-hm.com/)**
-- 🛡️ &nbsp;Backend Engineer **@ [Ahold Delhaize](https://aholddelhaize.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
+- 🛡️ &nbsp;Lead Backend Engineer **@ [Ahold Delhaize](https://aholddelhaize.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
 - 🚀 &nbsp;Building **[AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** in my free time — because I love what I do
 - 🧠 &nbsp;Currently learning **AI development and integration in distributed backends**
 - 👥 &nbsp;Looking to collaborate on **Go projects** — gophers welcome!
