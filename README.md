@@ -28,11 +28,12 @@
 
 ## >_ About Me
 
-> Senior Backend Engineer at **Ahold Delhaize** with **8+ years** building secure distributed systems. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
+> Lead Backend Engineer at **Ahold Delhaize** with **8+ years** building secure distributed systems for the **GET Commerce** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
 
 - 🌍 &nbsp;Based in **Albacete, Spain**
 - 🖥️ &nbsp;Portfolio → **[joaquin-hm.com](https://joaquin-hm.com/)**
 - 🛡️ &nbsp;Lead Backend Engineer **@ [Ahold Delhaize](https://aholddelhaize.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
+- 🛠️ &nbsp;Owner and Engineer of **[Five a Day Evolution](https://github.com/starseeker-code-public/five-a-day#five-a-day-evolution)**. A freelance project with devops, backend, frontend, cloud... all the good stuff
 - 🚀 &nbsp;Building **[AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** in my free time — because I love what I do
 - 🧠 &nbsp;Currently learning **AI development and integration in distributed backends**
 - 👥 &nbsp;Looking to collaborate on **Go projects** — gophers welcome!
