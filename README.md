@@ -28,15 +28,15 @@
 
 ## >_ About Me
 
-> Lead Backend Engineer at **Allot** with **8+ years** building secure distributed systems for the **Eclipse** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
+> Lead Backend Engineer at **Allot** with **8+ years** building secure distributed systems for the **Eclipse** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration. I've done a lot of everything.
 
 - 🌍 &nbsp;Based in **Albacete, Spain**
 - 🖥️ &nbsp;Portfolio → **[joaquin-hm.com](https://joaquin-hm.com/)**
 - 🛡️ &nbsp;Lead Backend Engineer **@ [Allot](https://www.allot.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
 - 🛠️ &nbsp;Owner and Engineer of **[Five a Day Evolution](https://github.com/starseeker-code-public/five-a-day-frontend)**. A freelance project with devops, backend, frontend, cloud... all the good stuff
-- 🚀 &nbsp;Building **[Joy](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** — an AI journal — in my free time, because I love what I do
+- 🚀 &nbsp;Building **[Joy, an AI journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** in my free time, because the best side projects are the ones you can't stop thinking about
 - 🧠 &nbsp;Currently learning **AI engineering for distributed backends**
-- 👥 &nbsp;Looking to collaborate on **Go projects** — gophers welcome!
+- 👥 &nbsp;Looking to collaborate on **Go projects**, gophers welcome!
 - 🔭 &nbsp;**Amateur astronomer**, I also **do some pictures** and **hike and trail**
 - ☕ &nbsp;**Semi-decent barista**, **boardgames pal** and **weekend social dancer** (my partners' toes would like a word)
 - 📬 &nbsp;Reach me at **[proyecto_noether@outlook.com](mailto:proyecto_noether@outlook.com)**
@@ -127,7 +127,6 @@
       <a href="https://kafka.apache.org/" title="Kafka"><img src="https://cdn.simpleicons.org/apachekafka/8b949e" width="42" height="42" /></a>
       <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="42" height="42" /></a>
       <a href="https://nats.io/" title="NATS"><img src="https://cdn.simpleicons.org/natsdotio/27AAE1" width="42" height="42" /></a>
-      <a href="https://www.redpanda.com/" title="Redpanda"><img src="https://img.shields.io/badge/Redpanda-E0392F?style=flat-square&logoColor=white" height="42" alt="Redpanda" /></a>
       <a href="https://docs.celeryq.dev/" title="Celery"><img src="https://cdn.simpleicons.org/celery/37814A" width="42" height="42" /></a>
       <a href="https://temporal.io/" title="Temporal"><img src="https://cdn.simpleicons.org/temporal/8b949e" width="42" height="42" /></a>
     </td>
@@ -158,24 +157,13 @@
 
 <div align="center">
 
-<a href="https://github.com/starseeker-code-public">
-  <img src="https://ghchart.rshah.org/58a6ff/starseeker-code-public" alt="GitHub contributions heatmap" />
-</a>
+<img width="495" src="https://github-readme-stats-fast.vercel.app/api?username=starseeker-code-public&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 
-<br/><br/>
+<img width="495" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=starseeker-code-public&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-<a href="https://github.com/starseeker-code-public">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=starseeker-code-public&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=starseeker-code-public&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</a>
+<img width="495" src="https://streak-stats.demolab.com/?user=starseeker-code-public&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=starseeker-code-public&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy-alpha.vercel.app/?username=starseeker-code-public&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+<img width="495" src="https://github-profile-trophy-alpha.vercel.app/?username=starseeker-code-public&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 
 </div>
 
@@ -183,21 +171,41 @@
 
 ## 🛰️ Featured Project
 
-<div align="center">
+> **Joy** is a REST-based journaling system that uses LLMs to help reflect, summarize, and surface patterns over time. Built with the same care I put into the espresso I'm definitely not over-extracting right now.
 
-<a href="https://github.com/starseeker-code-public/joy-ai-rest-journaling-system">
-  <img src="https://joaquin-hm.com/assets/joy-journal-C8mUcJhj.webp" width="600" alt="Joy — an AI journal" />
-</a>
-
-</div>
-
-> **Joy** — an AI journal: a REST-based journaling system that uses LLMs to help reflect, summarize, and surface patterns over time. Built with the same care I put into the espresso I'm definitely not over-extracting right now.
+<table>
+  <tr>
+    <td align="center" valign="middle" width="45%">
+      <a href="https://github.com/starseeker-code-public/joy-ai-rest-journaling-system">
+        <img src="https://joaquin-hm.com/assets/joy-journal-C8mUcJhj.webp" width="300" alt="Joy, an AI journal" />
+      </a>
+    </td>
+    <td valign="middle" width="55%">
+      <b>Stats</b><br/>
+      <img src="https://img.shields.io/github/commit-activity/t/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Commits" />
+      <img src="https://img.shields.io/github/last-commit/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Last commit" />
+      <img src="https://img.shields.io/github/languages/top/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Top language" />
+      <img src="https://img.shields.io/github/languages/code-size/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Code size" />
+      <img src="https://img.shields.io/github/license/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="License" />
+      <br/><br/>
+      <b>Stack</b><br/>
+      <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" /></a>
+      <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="32" height="32" /></a>
+      <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="32" height="32" /></a>
+      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" height="32" /></a>
+      <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="32" height="32" /></a>
+      <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" /></a>
+      <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="32" height="32" /></a>
+      <a href="https://www.openapis.org/" title="OpenAPI"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="32" height="32" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 🌌 Thanks for stopping by — clear skies, clean diffs, and may your builds be green.
+### 🌌 Thanks for stopping by. Clear skies, clean diffs, and may your builds be green.
 
 <sub>If you found something useful here, ⭐ a repo or drop me a line. If you're also bad at dancing, we'll get along just fine.</sub>
 
