@@ -16,10 +16,10 @@
 </h1>
 
 <p>
-  <a href="https://joaquin-hm.com/"><img src="https://img.shields.io/badge/Portfolio-joaquin--hm.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="mailto:proyecto_noether@outlook.com"><img src="https://img.shields.io/badge/Email-proyecto__noether-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://www.allot.com/"><img src="https://img.shields.io/badge/Allot-00A65C?style=for-the-badge" /></a>
-  <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/and-Tajamar-5C2D91?style=for-the-badge" /></a>
+  <a href="https://joaquin-hm.com/"><img src="https://img.shields.io/badge/Portfolio-joaquin--hm.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:proyecto_noether@outlook.com"><img src="https://img.shields.io/badge/Email-proyecto__noether-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://www.allot.com/"><img src="https://img.shields.io/badge/Allot-Lead%20Backend%20Engineer-00A65C?style=for-the-badge" alt="Allot" /></a>
+  <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/Tajamar-Instructor-5C2D91?style=for-the-badge" alt="Tajamar" /></a>
 </p>
 
 </div>
@@ -33,7 +33,7 @@
 - 🌍 &nbsp;Based in **Albacete, Spain**
 - 🖥️ &nbsp;Portfolio → **[joaquin-hm.com](https://joaquin-hm.com/)**
 - 🛡️ &nbsp;Lead Backend Engineer **@ [Allot](https://www.allot.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
-- 🛠️ &nbsp;Owner and Engineer of **[Five a Day Evolution](https://github.com/starseeker-code-public/five-a-day#five-a-day-evolution)**. A freelance project with devops, backend, frontend, cloud... all the good stuff
+- 🛠️ &nbsp;Owner and Engineer of **[Five a Day Evolution](https://github.com/starseeker-code-public/five-a-day-frontend)**. A freelance project with devops, backend, frontend, cloud... all the good stuff
 - 🚀 &nbsp;Building **[AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** in my free time — because I love what I do
 - 🧠 &nbsp;Currently learning **AI development and integration in distributed backends**
 - 👥 &nbsp;Looking to collaborate on **Go projects** — gophers welcome!
@@ -63,8 +63,8 @@
       <a href="https://www.djangoproject.com/" title="Django"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="42" height="42" /></a>
       <a href="https://docs.nestjs.com/" title="NestJS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="42" height="42" /></a>
       <a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" height="60"/>
+      <a href="https://grpc.io/" title="gRPC"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="42" height="42" /></a>
+      <a href="https://www.openapis.org/" title="OpenAPI"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="42" height="42" /></a>
     </td>
   </tr>
   <tr>
@@ -72,19 +72,19 @@
       <h3>Frontend</h3>
       <a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="42" height="42" /></a>
       <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/HTMX-3D72D7?style=flat-square&logo=htmx&logoColor=white" height="60"/>
+      <a href="https://astro.build/" title="Astro"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored.svg" width="42" height="42" /></a>
+      <a href="https://vite.dev/" title="Vite"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="42" height="42" /></a>
+      <a href="https://htmx.org/" title="HTMX"><img src="https://cdn.simpleicons.org/htmx/3D72D7" width="42" height="42" /></a>
     </td>
     <td align="center" valign="top">
       <h3>Databases & Storage</h3>
       <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" height="42" /></a>
       <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" height="60"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" height="60"/>
+      <a href="https://redis.io/" title="Redis"><img src="https://cdn.simpleicons.org/redis/DC382D" width="42" height="42" /></a>
+      <a href="https://clickhouse.com/" title="ClickHouse"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="42" height="42" /></a>
+      <a href="https://www.sqlite.org/" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/0F80CC" width="42" height="42" /></a>
+      <a href="https://www.snowflake.com/" title="Snowflake"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" /></a>
+      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" height="42" alt="pgvector" />
     </td>
   </tr>
   <tr>
@@ -95,21 +95,21 @@
       <a href="https://cloud.google.com/" title="GCP"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="42" height="42" /></a>
       <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="42" height="42" /></a>
       <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" height="60"/>
+      <a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.simpleicons.org/terraform/7B42BC" width="42" height="42" /></a>
+      <a href="https://helm.sh/" title="Helm"><img src="https://cdn.simpleicons.org/helm/4F6AF0" width="42" height="42" /></a>
+      <a href="https://argo-cd.readthedocs.io/" title="ArgoCD"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="42" height="42" /></a>
+      <a href="https://istio.io/" title="Istio"><img src="https://cdn.simpleicons.org/istio/466BB0" width="42" height="42" /></a>
     </td>
     <td align="center" valign="top">
       <h3>Observability & Security</h3>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black" height="60"/>
-      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" height="60"/>
-      <img src="https://img.shields.io/badge/Keycloak-008AAA?style=flat-square&logo=keycloak&logoColor=white" height="60"/>
+      <a href="https://grafana.com/" title="Grafana"><img src="https://cdn.simpleicons.org/grafana/F46800" width="42" height="42" /></a>
+      <a href="https://prometheus.io/" title="Prometheus"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="42" height="42" /></a>
+      <a href="https://www.jaegertracing.io/" title="Jaeger"><img src="https://cdn.simpleicons.org/jaeger/66CFE3" width="42" height="42" /></a>
+      <a href="https://opentelemetry.io/" title="OpenTelemetry"><img src="https://cdn.simpleicons.org/opentelemetry/425CC7" width="42" height="42" /></a>
+      <a href="https://www.datadoghq.com/" title="Datadog"><img src="https://cdn.simpleicons.org/datadog/774AA4" width="42" height="42" /></a>
+      <a href="https://sentry.io/" title="Sentry"><img src="https://cdn.simpleicons.org/sentry/8C7CF0" width="42" height="42" /></a>
+      <a href="https://www.vaultproject.io/" title="Vault"><img src="https://cdn.simpleicons.org/vault/FFEC6E" width="42" height="42" /></a>
+      <a href="https://www.keycloak.org/" title="Keycloak"><img src="https://cdn.simpleicons.org/keycloak/008AAA" width="42" height="42" /></a>
     </td>
   </tr>
   <tr>
@@ -117,21 +117,21 @@
       <h3>AI / ML</h3>
       <a href="https://pytorch.org/" title="PyTorch"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="42" height="42" /></a>
       <a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=langchain&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="60"/>
-      <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square&logo=pydantic&logoColor=white" height="60"/>
+      <a href="https://www.anthropic.com/" title="Anthropic"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="42" height="42" /></a>
+      <a href="https://www.langchain.com/" title="LangChain"><img src="https://cdn.simpleicons.org/langchain/2FA5A5" width="42" height="42" /></a>
+      <a href="https://www.langchain.com/langgraph" title="LangGraph"><img src="https://cdn.simpleicons.org/langgraph/FF6F00" width="42" height="42" /></a>
+      <a href="https://ollama.com/" title="Ollama"><img src="https://cdn.simpleicons.org/ollama/8b949e" width="42" height="42" /></a>
+      <a href="https://huggingface.co/" title="Hugging Face"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored.svg" width="42" height="42" /></a>
+      <a href="https://ai.pydantic.dev/" title="Pydantic AI"><img src="https://cdn.simpleicons.org/pydantic/E92063" width="42" height="42" /></a>
     </td>
     <td align="center" valign="top">
       <h3>Messaging & Streaming</h3>
-      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Redpanda-E0392F?style=flat-square&logo=redpanda&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" height="60"/>
+      <a href="https://kafka.apache.org/" title="Kafka"><img src="https://cdn.simpleicons.org/apachekafka/8b949e" width="42" height="42" /></a>
+      <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="42" height="42" /></a>
+      <a href="https://nats.io/" title="NATS"><img src="https://cdn.simpleicons.org/natsdotio/27AAE1" width="42" height="42" /></a>
+      <a href="https://www.redpanda.com/" title="Redpanda"><img src="https://img.shields.io/badge/Redpanda-E0392F?style=flat-square&logoColor=white" height="42" alt="Redpanda" /></a>
+      <a href="https://docs.celeryq.dev/" title="Celery"><img src="https://cdn.simpleicons.org/celery/37814A" width="42" height="42" /></a>
+      <a href="https://temporal.io/" title="Temporal"><img src="https://cdn.simpleicons.org/temporal/8b949e" width="42" height="42" /></a>
     </td>
   </tr>
   <tr>
@@ -141,16 +141,16 @@
       <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="42" height="42" /></a>
       <a href="https://www.linux.org" title="Linux"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="42" height="42" /></a>
       <a href="https://ubuntu.com/" title="Ubuntu"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="60"/>
+      <a href="https://github.com/features/actions" title="GitHub Actions"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="42" height="42" /></a>
+      <a href="https://www.anthropic.com/claude-code" title="Claude Code"><img src="https://cdn.simpleicons.org/claude/D97757" width="42" height="42" /></a>
     </td>
     <td align="center" valign="top">
       <h3>Testing & Quality</h3>
-      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" height="60"/>
-      <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" height="60"/>
+      <a href="https://docs.pytest.org/" title="Pytest"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="42" height="42" /></a>
+      <a href="https://playwright.dev/" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42" height="42" /></a>
+      <a href="https://k6.io/" title="k6"><img src="https://cdn.simpleicons.org/k6/7D64FF" width="42" height="42" /></a>
+      <a href="https://testcontainers.com/" title="Testcontainers"><img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" height="42" alt="Testcontainers" /></a>
+      <a href="https://trivy.dev/" title="Trivy"><img src="https://cdn.simpleicons.org/trivy/1904DA" width="42" height="42" /></a>
     </td>
   </tr>
 </table>
@@ -162,17 +162,17 @@
 <div align="center">
 
 <a href="https://github.com/starseeker-code-public">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=starseeker-code-public&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starseeker-code-public&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=starseeker-code-public&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=starseeker-code-public&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=starseeker-code-public&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=starseeker-code-public&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=starseeker-code-public&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
+<img src="https://github-profile-trophy-alpha.vercel.app/?username=starseeker-code-public&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 
 </div>
 
@@ -183,27 +183,12 @@
 <div align="center">
 
 <a href="https://github.com/starseeker-code-public/joy-ai-rest-journaling-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=starseeker-code-public&repo=joy-ai-rest-journaling-system&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=starseeker-code-public&repo=joy-ai-rest-journaling-system&theme=tokyonight&hide_border=true" alt="AI Journal repository card" />
 </a>
 
 </div>
 
 > **AI Journal** — a REST-based journaling system that uses LLMs to help reflect, summarize, and surface patterns over time. Built with the same care I put into the espresso I'm definitely not over-extracting right now.
-
----
-
-## ✨ A Few Words I Live By
-
-<div align="center">
-
-> *"In theory, theory and practice are the same. In practice, they're not."*
-> — every backend engineer, at some point, on a Friday afternoon
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
 
 ---
 
