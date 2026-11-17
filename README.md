@@ -163,7 +163,7 @@
 
 <img width="495" src="https://streak-stats.demolab.com/?user=starseeker-code-public&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="495" src="https://github-profile-trophy-alpha.vercel.app/?username=starseeker-code-public&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+<img src="https://github-profile-trophy-alpha.vercel.app/?username=starseeker-code-public&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
 
 </div>
 
@@ -173,33 +173,40 @@
 
 > **Joy** is a REST-based journaling system that uses LLMs to help reflect, summarize, and surface patterns over time. Built with the same care I put into the espresso I'm definitely not over-extracting right now.
 
-<table>
-  <tr>
-    <td align="center" valign="middle" width="45%">
-      <a href="https://github.com/starseeker-code-public/joy-ai-rest-journaling-system">
-        <img src="https://joaquin-hm.com/assets/joy-journal-C8mUcJhj.webp" width="300" alt="Joy, an AI journal" />
-      </a>
-    </td>
-    <td valign="middle" width="55%">
-      <b>Stats</b><br/>
-      <img src="https://img.shields.io/github/commit-activity/t/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Commits" />
-      <img src="https://img.shields.io/github/last-commit/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Last commit" />
-      <img src="https://img.shields.io/github/languages/top/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Top language" />
-      <img src="https://img.shields.io/github/languages/code-size/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Code size" />
-      <img src="https://img.shields.io/github/license/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="License" />
-      <br/><br/>
-      <b>Stack</b><br/>
-      <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" /></a>
-      <a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="32" height="32" /></a>
-      <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="32" height="32" /></a>
-      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" height="32" /></a>
-      <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="32" height="32" /></a>
-      <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" /></a>
-      <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="32" height="32" /></a>
-      <a href="https://www.openapis.org/" title="OpenAPI"><img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="32" height="32" /></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/starseeker-code-public/joy-ai-rest-journaling-system">
+  <img align="left" src="https://joaquin-hm.com/assets/joy-journal-C8mUcJhj.webp" width="300" alt="Joy, an AI journal" />
+</a>
+
+&nbsp;&nbsp;<b>Stats</b><br/>
+&nbsp;&nbsp;<img src="https://img.shields.io/github/commit-activity/t/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Commits" />
+<img src="https://img.shields.io/github/last-commit/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Last commit" />
+<img src="https://img.shields.io/github/languages/top/starseeker-code-public/joy-ai-rest-journaling-system?style=flat-square&labelColor=161b22&color=58A6FF" alt="Top language" />
+<img src="https://img.shields.io/badge/lines%20of%20code-6.4k-58A6FF?style=flat-square&labelColor=161b22" alt="Lines of code" />
+
+&nbsp;&nbsp;<b>Tech stack</b><br/>
+&nbsp;&nbsp;<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" /></a>
+<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="32" height="32" /></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" height="32" /></a>
+<a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="32" height="32" /></a>
+<a href="https://redis.io/" title="Redis"><img src="https://cdn.simpleicons.org/redis/DC382D" width="32" height="32" /></a>
+<a href="https://clickhouse.com/" title="ClickHouse"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="32" height="32" /></a>
+<a href="https://opensearch.org/" title="OpenSearch"><img src="https://cdn.simpleicons.org/opensearch/005EB8" width="32" height="32" /></a>
+<a href="https://min.io/" title="MinIO"><img src="https://cdn.simpleicons.org/minio/C72E49" width="32" height="32" /></a>
+<a href="https://nginx.org/" title="Nginx"><img src="https://cdn.simpleicons.org/nginx/009639" width="32" height="32" /></a>
+<a href="https://huggingface.co/docs/transformers" title="Transformers"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored.svg" width="32" height="32" /></a>
+
+&nbsp;&nbsp;<b>Testing, delivery &amp; observability</b><br/>
+&nbsp;&nbsp;<a href="https://docs.pytest.org/" title="Pytest"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="32" height="32" /></a>
+<a href="https://k6.io/" title="k6"><img src="https://cdn.simpleicons.org/k6/7D64FF" width="32" height="32" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="32" height="32" /></a>
+<a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="32" height="32" /></a>
+<a href="https://grafana.com/" title="Grafana"><img src="https://cdn.simpleicons.org/grafana/F46800" width="32" height="32" /></a>
+<a href="https://prometheus.io/" title="Prometheus"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="32" height="32" /></a>
+<a href="https://www.jaegertracing.io/" title="Jaeger"><img src="https://cdn.simpleicons.org/jaeger/66CFE3" width="32" height="32" /></a>
+<a href="https://opentelemetry.io/" title="OpenTelemetry"><img src="https://cdn.simpleicons.org/opentelemetry/425CC7" width="32" height="32" /></a><br/>
+&nbsp;&nbsp;<sub>21 test modules · k6 load tests · Docker Compose · Kubernetes with Kustomize and autoscaling</sub>
+
+<br clear="left"/>
 
 ---
 
