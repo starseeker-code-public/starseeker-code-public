@@ -18,7 +18,7 @@
 <p>
   <a href="https://joaquin-hm.com/"><img src="https://img.shields.io/badge/Portfolio-joaquin--hm.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="mailto:proyecto_noether@outlook.com"><img src="https://img.shields.io/badge/Email-proyecto__noether-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://aholddelhaize.com/"><img src="https://img.shields.io/badge/%40-Ahold%20Delhaize-00A65C?style=for-the-badge" /></a>
+  <a href="https://www.allot.com/"><img src="https://img.shields.io/badge/Allot-00A65C?style=for-the-badge" /></a>
   <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/and-Tajamar-5C2D91?style=for-the-badge" /></a>
 </p>
 
@@ -28,11 +28,11 @@
 
 ## >_ About Me
 
-> Lead Backend Engineer at **Ahold Delhaize** with **8+ years** building secure distributed systems for the **GET Commerce** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
+> Lead Backend Engineer at **Allot** with **8+ years** building secure distributed systems for the **GET Commerce** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
 
 - 🌍 &nbsp;Based in **Albacete, Spain**
 - 🖥️ &nbsp;Portfolio → **[joaquin-hm.com](https://joaquin-hm.com/)**
-- 🛡️ &nbsp;Lead Backend Engineer **@ [Ahold Delhaize](https://aholddelhaize.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
+- 🛡️ &nbsp;Lead Backend Engineer **@ [Allot](https://www.allot.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
 - 🛠️ &nbsp;Owner and Engineer of **[Five a Day Evolution](https://github.com/starseeker-code-public/five-a-day#five-a-day-evolution)**. A freelance project with devops, backend, frontend, cloud... all the good stuff
 - 🚀 &nbsp;Building **[AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** in my free time — because I love what I do
 - 🧠 &nbsp;Currently learning **AI development and integration in distributed backends**
