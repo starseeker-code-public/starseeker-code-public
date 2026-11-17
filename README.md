@@ -18,8 +18,8 @@
 <p>
   <a href="https://joaquin-hm.com/"><img src="https://img.shields.io/badge/Portfolio-joaquin--hm.com-58A6FF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:proyecto_noether@outlook.com"><img src="https://img.shields.io/badge/Email-proyecto__noether-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="https://www.allot.com/"><img src="https://img.shields.io/badge/Allot-Lead%20Backend%20Engineer-00A65C?style=for-the-badge" alt="Allot" /></a>
-  <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/Tajamar-Instructor-5C2D91?style=for-the-badge" alt="Tajamar" /></a>
+  <a href="https://www.allot.com/"><img src="https://img.shields.io/badge/%40-Allot-00A65C?style=for-the-badge" alt="@ Allot" /></a>
+  <a href="https://www.tajamar.es/"><img src="https://img.shields.io/badge/AND-Tajamar-5C2D91?style=for-the-badge" alt="AND Tajamar" /></a>
 </p>
 
 </div>
@@ -28,17 +28,17 @@
 
 ## >_ About Me
 
-> Lead Backend Engineer at **Allot** with **8+ years** building secure distributed systems for the **GET Commerce** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
+> Lead Backend Engineer at **Allot** with **8+ years** building secure distributed systems for the **Eclipse** team. Specialized in agile leadership, backend architecture, DevOps automation, and AI integration — I've done a lot of everything.
 
 - 🌍 &nbsp;Based in **Albacete, Spain**
 - 🖥️ &nbsp;Portfolio → **[joaquin-hm.com](https://joaquin-hm.com/)**
 - 🛡️ &nbsp;Lead Backend Engineer **@ [Allot](https://www.allot.com/)** &nbsp;·&nbsp; Instructor **@ [Tajamar](https://www.tajamar.es/)**
 - 🛠️ &nbsp;Owner and Engineer of **[Five a Day Evolution](https://github.com/starseeker-code-public/five-a-day-frontend)**. A freelance project with devops, backend, frontend, cloud... all the good stuff
-- 🚀 &nbsp;Building **[AI Journal](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** in my free time — because I love what I do
-- 🧠 &nbsp;Currently learning **AI development and integration in distributed backends**
+- 🚀 &nbsp;Building **[Joy](https://github.com/starseeker-code-public/joy-ai-rest-journaling-system)** — an AI journal — in my free time, because I love what I do
+- 🧠 &nbsp;Currently learning **AI engineering for distributed backends**
 - 👥 &nbsp;Looking to collaborate on **Go projects** — gophers welcome!
 - 🔭 &nbsp;**Amateur astronomer**, I also **do some pictures** and **hike and trail**
-- ☕ &nbsp;**Semi-decent barista**, **boardgames pal** and **terrible dancer**
+- ☕ &nbsp;**Semi-decent barista**, **boardgames pal** and **weekend social dancer** (my partners' toes would like a word)
 - 📬 &nbsp;Reach me at **[proyecto_noether@outlook.com](mailto:proyecto_noether@outlook.com)**
 
 ---
@@ -84,7 +84,6 @@
       <a href="https://clickhouse.com/" title="ClickHouse"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="42" height="42" /></a>
       <a href="https://www.sqlite.org/" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/0F80CC" width="42" height="42" /></a>
       <a href="https://www.snowflake.com/" title="Snowflake"><img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="42" height="42" /></a>
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" height="42" alt="pgvector" />
     </td>
   </tr>
   <tr>
@@ -97,7 +96,6 @@
       <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="42" height="42" /></a>
       <a href="https://www.terraform.io/" title="Terraform"><img src="https://cdn.simpleicons.org/terraform/7B42BC" width="42" height="42" /></a>
       <a href="https://helm.sh/" title="Helm"><img src="https://cdn.simpleicons.org/helm/4F6AF0" width="42" height="42" /></a>
-      <a href="https://argo-cd.readthedocs.io/" title="ArgoCD"><img src="https://cdn.simpleicons.org/argo/EF7B4D" width="42" height="42" /></a>
       <a href="https://istio.io/" title="Istio"><img src="https://cdn.simpleicons.org/istio/466BB0" width="42" height="42" /></a>
     </td>
     <td align="center" valign="top">
@@ -149,7 +147,6 @@
       <a href="https://docs.pytest.org/" title="Pytest"><img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="42" height="42" /></a>
       <a href="https://playwright.dev/" title="Playwright"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42" height="42" /></a>
       <a href="https://k6.io/" title="k6"><img src="https://cdn.simpleicons.org/k6/7D64FF" width="42" height="42" /></a>
-      <a href="https://testcontainers.com/" title="Testcontainers"><img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" height="42" alt="Testcontainers" /></a>
       <a href="https://trivy.dev/" title="Trivy"><img src="https://cdn.simpleicons.org/trivy/1904DA" width="42" height="42" /></a>
     </td>
   </tr>
@@ -162,8 +159,14 @@
 <div align="center">
 
 <a href="https://github.com/starseeker-code-public">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=starseeker-code-public&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=starseeker-code-public&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://ghchart.rshah.org/58a6ff/starseeker-code-public" alt="GitHub contributions heatmap" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/starseeker-code-public">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=starseeker-code-public&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=starseeker-code-public&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </a>
 
 <br/>
@@ -183,12 +186,12 @@
 <div align="center">
 
 <a href="https://github.com/starseeker-code-public/joy-ai-rest-journaling-system">
-  <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=starseeker-code-public&repo=joy-ai-rest-journaling-system&theme=tokyonight&hide_border=true" alt="AI Journal repository card" />
+  <img src="https://joaquin-hm.com/assets/joy-journal-C8mUcJhj.webp" width="600" alt="Joy — an AI journal" />
 </a>
 
 </div>
 
-> **AI Journal** — a REST-based journaling system that uses LLMs to help reflect, summarize, and surface patterns over time. Built with the same care I put into the espresso I'm definitely not over-extracting right now.
+> **Joy** — an AI journal: a REST-based journaling system that uses LLMs to help reflect, summarize, and surface patterns over time. Built with the same care I put into the espresso I'm definitely not over-extracting right now.
 
 ---
 
